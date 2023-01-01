@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emisael Kisler
-- 👀 I’m fullstack Developer
+- 👀 I’m Fullstack Developer
 - 🌱 I’m currently learning Programing in JavaScript, HTML5, CSS, and more.
 - 💞️ I’m looking to collaborate on Web development
 - 📧 How to reach me ekilser@gmail.com
