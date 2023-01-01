@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekisler&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 
-- 🔭 I’m currently working on [Scaneame](https://scaneame.vercel.app/)
+- 🔭 I’m currently working on [Scaneame](https://github.com/ekisler/scanneame)
 
 - 🌱 I’m currently learning **Typescript**
 
