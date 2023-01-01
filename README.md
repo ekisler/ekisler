@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Emisael Kisler
-- 👀 I’m Fullstack Developer
-- 
-- 🌱 My tools  in  Programing: 
+👋 Hi, I’m Emisael Kisler
+👀 I’m Fullstack Developer
+ 
+🌱 My tools  in  Programing: 
 -   JavaScript 
 -   HTML5 
 -   CSS 
@@ -17,6 +17,7 @@
 -   Netlify
 -   Git 
 -   Github.
+
 - 💞️ I’m looking to collaborate on Web development
 - 📧 How to reach me kilser.fullstack@gmail.com
 - 👍  Committed to constantly learning and growing
