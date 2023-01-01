@@ -1,8 +1,24 @@
 - 👋 Hi, I’m Emisael Kisler
 - 👀 I’m Fullstack Developer
-- 🌱 I’m currently learning Programing in JavaScript, HTML5, CSS, and more.
+- 
+- 🌱 My tools  in  Programing: 
+-   JavaScript 
+-   HTML5 
+-   CSS 
+-   React 
+-   Redux 
+-   Node.js 
+-   Express 
+-   JWT
+-   Auth0
+-   MongoDB
+-   Sequelize
+-   Vercel
+-   Netlify
+-   Git 
+-   Github.
 - 💞️ I’m looking to collaborate on Web development
-- 📧 How to reach me ekilser@gmail.com
+- 📧 How to reach me kilser.fullstack@gmail.com
 - 👍  Committed to constantly learning and growing
 
 <!---
