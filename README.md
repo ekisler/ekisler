@@ -4,6 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekisler&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 
+I am Emisael Kisler from Caracas, Venezuela.
+
+Apart from coding, some other activities that I love to do!
+ Playing Chess (Master level)
+ Read about Tech News
+ Trekking
+
+I have always tried to stay close to the technological world. Every day I continue to deepen my knowledge in the Tech world, as a result I have achieved relative fluency in the following technologies:
+JavaScript || HTML || CSS || React || Redux || NodeJS || Express || WebServer || MongoDB || Git || GitHub || Vercel || Netlify || Auth0 || JWT
+
+I currently belong to the Henry Talent team, willing to give all my knowledge to develop my professional career.
+
 - 🔭 I’m currently working on [Scaneame](https://github.com/ekisler/scanneame)
 
 - 🌱 I’m currently learning **Typescript**
