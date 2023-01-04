@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekisler&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 
-My name is Emisael, I live in the city of Caracas - Venezuela and I recently finished SoyHenry's web development bootcamp. I am currently looking for my first job in the IT industry, while continuing to carry out personal projects to deepen my knowledge and experience in the code.
+My name is Emisael, I live in the city of Caracas - Venezuela and I recently finished SoyHenry's web development bootcamp. 
 
 I consider myself a proactive, curious and caring person. I have an easy time learning things by myself, although I never hesitate to ask for help when necessary.
 I really like and enjoy teamwork, in fact one of the best experiences that Henry gave me was the Pair Programming afternoons during the course, and, later, the long days of group work during the development of the final project.
