@@ -7,9 +7,9 @@
 I am Emisael Kisler from Caracas, Venezuela.
 
 Apart from coding, some other activities that I love to do!
- Playing Chess (Master level)
- Read about Tech News
- Trekking
+ Playing Chess (Master level),
+ Read about Tech News,
+ and Trekking
 
 I have always tried to stay close to the technological world. Every day I continue to deepen my knowledge in the Tech world, as a result I have achieved relative fluency in the following technologies:
 JavaScript || HTML || CSS || React || Redux || NodeJS || Express || WebServer || MongoDB || Git || GitHub || Vercel || Netlify || Auth0 || JWT
