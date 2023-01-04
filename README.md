@@ -4,17 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekisler&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 
-I am Emisael Kisler from Caracas, Venezuela.
+My name is Emisael, I live in the city of Caracas - Venezuela and I recently finished SoyHenry's web development bootcamp. I am currently looking for my first job in the IT industry, while continuing to carry out personal projects to deepen my knowledge and experience in the code.
 
-Apart from coding, some other activities that I love to do!
- Playing Chess (Master level),
- Read about Tech News,
- and Trekking
+I consider myself a proactive, curious and caring person. I have an easy time learning things by myself, although I never hesitate to ask for help when necessary.
+I really like and enjoy teamwork, in fact one of the best experiences that Henry gave me was the Pair Programming afternoons during the course, and, later, the long days of group work during the development of the final project.
 
-I have always tried to stay close to the technological world. Every day I continue to deepen my knowledge in the Tech world, as a result I have achieved relative fluency in the following technologies:
-JavaScript || HTML || CSS || React || Redux || NodeJS || Express || WebServer || MongoDB || Git || GitHub || Vercel || Netlify || Auth0 || JWT
+My stack of technologies is made up of: JavaScript || HTML || CSS || react || Redux || NodeJS || Express || WebServer || MongoDB || git || GitHub || Vercel || Netlify || Auth0 || JWT. I also have domain in the flow of Git and handle tools like Postman and PgAdmin. If I have to choose, my preferred programming area is the Back End.
 
-I currently belong to the Henry Talent team, willing to give all my knowledge to develop my professional career.
+Apart from programming, my other passion is Chess and Master Practice. I am a volunteer Chess Teacher for all ages at PDVSA La Estancia. Throughout my life, I have participated in various Chess Seminars, which has helped me to develop the aforementioned soft skills, such as teamwork; my more than 5 thousand games are published on chess.com and lichess.com
+
+I currently belong to the HenryTalent team, willing to give all my knowledge to develop my professional career.
+
+Contact me: ekisler@gmail.com
+Check out my Portfolio at https://kislerportfolio.vercel.app/
 
 - 🔭 I’m currently working on [Scaneame](https://github.com/ekisler/scanneame)
 
