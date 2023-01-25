@@ -31,7 +31,7 @@ Echa un vistazo a mi portfolio en https://kislerportfolio.vercel.app/
 
 - 📄 Conoce mi experiencia visitando mi Portafolio [https://kislerportfolio.vercel.app/](https://kislerportfolio.vercel.app/)
 
-<h3 align="left">Conecta con mi s Redes Sociales:</h3>
+<h3 align="left">Conecta con mis Redes Sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/ekracing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekracing" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/emisael-kisler-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emisael-kisler-fullstack/" height="30" width="40" /></a>
