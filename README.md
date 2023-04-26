@@ -23,7 +23,7 @@ Echa un vistazo a mi portfolio en https://kislerportfolio.vercel.app/
 
 - 🔭 Actualmente trabajo como colaborador en el proyecto [Scaneame](https://github.com/ekisler/scanneame)
 
-- 🌱 Estoy aprendiendo **Typescript**
+- 🌱 Estoy aprendiendo **Python**
 
 - 💬 Puedes preguntarme sobre **Javascript, React, Node.js**
 
