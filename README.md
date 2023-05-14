@@ -14,7 +14,7 @@ Me gusta y disfruto mucho el trabajo en equipo, de hecho una de las mejores expe
 
 Mi stack de tecnologías se compone de: JavaScript || HTML || CSS || React.js|| Redux || NodeJS || Express.js || Microservicios Dcoker || MongoDB || Git || GitHub || Vercel || Netlifi || Auth0 || JWT. También tengo dominio en el flujo de Git y manejo herramientas como Postman y PgAdmin. Si tengo que elegir, mi área de programación preferida es el Back End.
 
-Aparte de la programación, mi otra pasión es el Ajedrez y la Práctica Magistral. Soy Profesor voluntari de Ajedrez para todas las edades en PDVSA La Estancia. A lo largo de mi vida he participado en diversos Seminarios de Ajedrez, lo que me ha ayudado a desarrollar las soft skills antes mencionadas, como el trabajo en equipo y la resilencia; mis más de 5 mil partidas están publicadas en chess.com y lichess.com
+Aparte de la programación, mi otra pasión es el Ajedrez y la Práctica Magistral. Soy Profesor voluntario de Ajedrez para todas las edades en PDVSA La Estancia. A lo largo de mi vida he participado en diversos Seminarios de Ajedrez, lo que me ha ayudado a desarrollar las soft skills antes mencionadas, como el trabajo en equipo y la resilencia; mis más de 5 mil partidas están publicadas en chess.com y lichess.com
 
 Actualmente pertenezco al equipo de HenryTalent, dispuesto a dar todo mi conocimiento para desarrollar mi carrera profesional.
 
