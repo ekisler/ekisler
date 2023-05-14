@@ -19,7 +19,7 @@ Aparte de la programación, mi otra pasión es el Ajedrez y la Práctica Magistr
 Actualmente pertenezco al equipo de HenryTalent, dispuesto a dar todo mi conocimiento para desarrollar mi carrera profesional.
 
 Contáctame: ekisler@gmail.com
-Echa un vistazo a mi portfolio en https://emisaelportfolio.vnetlify.app/
+Echa un vistazo a mi portfolio en https://emisaelportfolio.netlify.app/
 
 - 🔭 Actualmente trabajo como colaborador en el proyecto [Scaneame](https://github.com/ekisler/scanneame)
 
