@@ -12,7 +12,7 @@ Recientemente terminé el Bootcamp de desarrollo web de SoyHenry obteniendo la c
 Me considero una persona proactiva, curiosa y solidaria. Me resulta fácil aprender cosas por mi cuenta, aunque nunca dudo en pedir ayuda cuando es necesario.
 Me gusta y disfruto mucho el trabajo en equipo, de hecho una de las mejores experiencias que me brindó Henry fueron las tardes de Programación en pareja durante el curso, y, posteriormente, las largas jornadas de trabajo en grupo durante el desarrollo del proyecto final.
 
-Mi stack de tecnologías se compone de: JavaScript || HTML || CSS || React.js|| Redux || NodeJS || Express.js || Microservicios Dcoker || MongoDB || Git || GitHub || Vercel || Netlificar || Autoh0 || JWT. También tengo dominio en el flujo de Git y manejo herramientas como Postman y PgAdmin. Si tengo que elegir, mi área de programación preferida es el Back End.
+Mi stack de tecnologías se compone de: JavaScript || HTML || CSS || React.js|| Redux || NodeJS || Express.js || Microservicios Dcoker || MongoDB || Git || GitHub || Vercel || Netlifi || Auth0 || JWT. También tengo dominio en el flujo de Git y manejo herramientas como Postman y PgAdmin. Si tengo que elegir, mi área de programación preferida es el Back End.
 
 Aparte de la programación, mi otra pasión es el Ajedrez y la Práctica Magistral. Soy Profesor voluntari de Ajedrez para todas las edades en PDVSA La Estancia. A lo largo de mi vida he participado en diversos Seminarios de Ajedrez, lo que me ha ayudado a desarrollar las soft skills antes mencionadas, como el trabajo en equipo y la resilencia; mis más de 5 mil partidas están publicadas en chess.com y lichess.com
 
