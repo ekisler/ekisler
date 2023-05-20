@@ -29,7 +29,7 @@ Echa un vistazo a mi portfolio en https://emisaelportfolio.netlify.app/
 
 - 📫 Puedes comunicarte conmigo a traves de **kisler.fullstack@gmail.com**
 
-- 📄 Conoce mi experiencia visitando mi Portafolio [https://kislerportfolio.vercel.app/](https://kislerportfolio.vercel.app/)
+- 📄 Conoce mi experiencia visitando mi Portafolio [https://emisaelportfolio.netlify.app/](https://emisaelportfolio.netlify.app/)
 
 <h3 align="left">Conecta con mis Redes Sociales:</h3>
 <p align="left">
