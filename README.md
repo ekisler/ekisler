@@ -23,7 +23,7 @@ Echa un vistazo a mi portfolio en https://emisaelportfolio.netlify.app/
 
 - 🔭 Actualmente trabajo como colaborador en el proyecto [Scaneame](https://github.com/ekisler/scanneame)
 
-- 🌱 Estoy aprendiendo **Python**
+- 🌱 Estoy aprendiendo **COBOL**
 
 - 💬 Puedes preguntarme sobre **Javascript, React.js, Node.js**
 
