@@ -7,7 +7,7 @@
 Mi nombre es Emisael, vivo en la ciudad de Caracas - Venezuela.
 
  Desarrollador Full Stack con experiencia desarrollando proyectos usando HTML, CSS, JavaScript, React, Redux, Express y Node.js, Microservicios Docker entre otros. He trabajado en proyectos como API para películas, menús para cafeterías, etiquetas de información nutricional, portafolios web, páginas responsive, comercio electrónico, chatGPT y más.
-Recientemente terminé el Bootcamp de desarrollo web de SoyHenry obteniendo la certificacion de Full Stack.
+Actualmente me ecuentro realizando una certificacion de FullStack en la Universidad de [Helsinki](https://fullstackopen.com/).
 
 Me considero una persona proactiva, curiosa y solidaria. Me resulta fácil aprender cosas por mi cuenta, aunque nunca dudo en pedir ayuda cuando es necesario.
 Me gusta y disfruto mucho el trabajo en equipo, de hecho una de las mejores experiencias que me brindó "SoyHenry Bootcamp" fueron las tardes de Programación en pareja durante el proceso de certificación, y, posteriormente, las largas jornadas de trabajo en grupo durante el desarrollo del proyecto final.
