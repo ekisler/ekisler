@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekisler&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 
- Desarrollador Full Stack con experiencia desarrollando proyectos usando HTML, CSS, JavaScript, React, Redux, Express y Node.js, Microservicios Docker entre otros. He trabajado en proyectos como API para películas, menús para cafeterías, etiquetas de información nutricional, portafolios web, páginas responsive, comercio electrónico, chatGPT y más.
+   Desarrollador Full Stack con experiencia desarrollando proyectos usando HTML, CSS, JavaScript, React, Redux, Express y Node.js, Microservicios Docker entre otros. He trabajado en proyectos como API para películas, menús para cafeterías, etiquetas de información nutricional, portafolios web, páginas responsive, comercio electrónico, chatGPT y más.
 Actualmente me ecuentro realizando una certificacion de FullStack en la [Universidad de Helsinki](https://fullstackopen.com/).
 
 Me considero una persona proactiva, curiosa y solidaria. Me resulta fácil aprender cosas por mi cuenta, aunque nunca dudo en pedir ayuda cuando es necesario.
