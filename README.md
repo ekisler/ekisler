@@ -6,10 +6,10 @@
 
    Desarrollador Full Stack, experto en tecnologias avanzadas.
 
-Me considero una persona proactiva, curiosa y solidaria. Me resulta fácil aprender cosas por mi cuenta, aunque nunca dudo en pedir ayuda cuando es necesario.
+Proactivo, curioso y solidario. Me resulta fácil aprender cosas por mi cuenta, aunque nunca dudo en pedir ayuda cuando es necesario.
 Me gusta y disfruto mucho el trabajo en equipo
 
-Mi stack de tecnologías se compone de: JavaScript | React.js | Redux | NodeJS || Express.js || Microservicios Docker || MongoDB || Git || GitHub || Vercel || Netlify || Auth0 || JWT. También tengo dominio en el flujo de Git y manejo herramientas como Postman y PgAdmin. Si tengo que elegir, mi área de programación preferida es el Back End.
+Mi stack de tecnologías se compone de: JavaScript | React.js | Redux | NodeJS || Microservicios Docker || Automatizaciones N8N
 
 Contáctame: ekisler@gmail.com
 Echa un vistazo a mi portfolio en https://emisaelportfolio.netlify.app/
